@@ -1,0 +1,12 @@
+# Virtual Environments
+venv/
+
+# Sensitive Environment Variables & Secrets
+.env
+
+# Python Bytecode & Cache
+__pycache__/
+
+
+# Logs & Databases
+*.log
